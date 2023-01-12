@@ -1,6 +1,6 @@
 👋 Hi there! I'm Thang, a passionate software engineer who loves to solve complex problems, leads with empathy, and spreads positivity! 
 
-🛠️ Experienced with developing full-stack applications in TypeScript, React/Redux, Node/Express, and SQL/NoSQL databases. 
+🛠️ Experienced with developing full-stack applications in React/Redux, TypeScript, Node/Express, and SQL/NoSQL databases. 
 
 🔍 Co-creator and active contributor to Palaemon, an open source Kubernetes monitoring and error analysis tool (palaemon.io) focused on helping developers identify out-of-memory (OOMKill) errors.
 
