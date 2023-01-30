@@ -1,9 +1,9 @@
-👋 Hi there! I'm Thang, a passionate software engineer who loves to solve complex problems, leads with empathy, and spreads positivity! 
+👋 Hello! I'm Thang. A software engineer with a creative approach, known for solving complex problems with positivity and empathy.
 
-🛠️ Experienced with building full-stack applications in React/Redux, TypeScript, Node/Express, and SQL/NoSQL databases. 
+🔥 I excel in React/Redux, JavaScript/TypeScript, Node/Express/Python and have a solid understanding of SQL/NoSQL databases. I stay ahead of the game through continuous learning and embracing change, adapting to new technologies to meet my goals. Driven by a love of problem-solving, I approach challenges with a growth mindset and deliver outstanding applications.
 
-🔍 Co-creator and active contributor to Palaemon, an open source Kubernetes monitoring and error analysis tool (palaemon.io) focused on helping developers identify out-of-memory (OOMKill) errors.
+💡 Innovative engineer behind Palaemon - a Kubernetes monitoring solution that empowers dev teams to identify and analyze OOMKill errors with ease. Proud co-creator of this open-source tool.
 
-💬 Recently gave a public talk on Message Brokers as part of SingleSprout's Software Engineering Speaker Series.
+🎤 Shared expertise on Message Brokers at SingleSprout's Software Engineering Speaker Series, showcasing thought leadership in the tech community.
 
-:sunny: In my off time, I love staying active (snowboarding, bouldering, or playing volleyball just to name a few). I'm a music enthusiast who strangely enjoys camping in the cold, reading thriller books, teaching my cat tricks, and I'm determined to travel the entire world! 
+:sunny: Outside of coding, I'm pursuing a high-octane, fitness-forward lifestyle, braving the wilderness for camping adventures in the great outdoors, thrill-seeking through the pages of pulse-pounding novels and edge-of-your-seat films, training and performing with my feline sidekick, and exploring new frontiers, from the peaks of mountain ranges to the depths of foreign cultures
