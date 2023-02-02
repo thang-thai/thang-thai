@@ -6,4 +6,4 @@
 
 🎤 Shared expertise on Message Brokers at SingleSprout's Software Engineering Speaker Series, showcasing thought leadership in the tech community.
 
-:sunny: Outside of coding, I'm pursuing a high-octane, fitness-forward lifestyle, braving the wilderness for camping adventures in the great outdoors, thrill-seeking through the pages of pulse-pounding novels and edge-of-your-seat films, training and performing with my feline sidekick, and exploring new frontiers, from the peaks of mountain ranges to the depths of foreign cultures
+:sunny: Outside of coding, I'm leading an active and healthy lifestyle, braving the wilderness for camping adventures in the great outdoors, thrill-seeking through the pages of pulse-pounding novels and edge-of-your-seat films, training and performing with my feline sidekick, and exploring new frontiers, from the peaks of mountain ranges to the depths of foreign cultures
