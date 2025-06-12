@@ -1,9 +1,11 @@
-👋 Hey there, I’m Thang! I’m a full-stack software engineer who thrives on solving complex problems and building scalable, high-impact systems.
+👋 Hey there! I’m Thang, a full-stack software engineer with a passion for solving complex problems and building scalable systems.
 
-💻 I have hands-on experience developing secure applications with React, Angular, and TypeScript on the frontend, and Python, Java/Spring Boot, and .NET on the backend. My work also spans DevOps and platform engineering, where I’ve built and deployed microservices in Kubernetes using Docker and Helm, and provisioned and managed enterprise cloud infrastructure on AWS.
+💻 My experience spans backend, frontend, and cloud infrastructure. I’ve built secure applications with Java/Spring Boot and .NET, designed user-facing features in React and Angular, and deployed containerized microservices using Docker, Helm, and Kubernetes. I’ve also provisioned and managed cloud-native infrastructure in AWS, with a strong focus on automation, security, and long-term maintainability.
 
-⚙️ At Accelint, I’ve been a key contributor to MBPS, the Navy’s authoritative system of record, where I led technical efforts during its migration to a secure AWS GovCloud environment and developed core software customizations. I also helped build Fortress, a Kubernetes-based PaaS product designed for air-gapped deployment across edge, on-prem, and cloud environments. Previously, I co-developed Palaemon, an open-source Kubernetes developer tool for simulating OOMKill memory failures to help teams fine-tune microservice memory limits before production deployment.
+⚙️ At Accelint, I’ve led development across two platforms:
+• A Java-based enterprise logistics and configuration management system supporting thousands of systems and users, where I contributed to a full cloud migration, modernized legacy architecture, implemented secure authentication workflows, and improved platform resilience through refactoring legacy reports and automating upgrade pipelines.
+• A modular Kubernetes-based PaaS for deploying containerized applications across disconnected, on-prem, and cloud environments. I developed secure access control features, implemented role-based permissions, delivered operational UI improvements, and established full test coverage to ensure reliability and deployment safety.
 
-🌍 I lead with empathy, value cross-functional collaboration, and enjoy mentoring. Beyond the keyboard, I’m a lifelong learner, avid traveler, and currently training for my first marathon.
+🛠️ Previously, I co-developed an open-source dev tool for simulating and debugging Kubernetes memory failures, designed to help teams debug resource issues and fine-tune microservice performance before deploying to production.
 
-Let’s connect!
+🌱 I value cross-functional collaboration, lead with empathy, and strive to make every team I join more effective and enjoyable. Beyond the keyboard, I’m a lifelong learner who loves traveling, and I’m currently training for my first marathon. I enjoy exploring new technologies, so let’s connect and chat about them!
