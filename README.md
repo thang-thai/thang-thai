@@ -9,3 +9,5 @@ At Accelint, I’ve led development across two platforms: <br />
 Previously, I co-developed an open-source dev tool for simulating and debugging Kubernetes memory failures, designed to help teams debug resource issues and fine-tune microservice performance before deploying to production.
 
 I value cross-functional collaboration, lead with empathy, and strive to make every team I join more effective and enjoyable. Beyond the keyboard, I’m a lifelong learner who loves traveling, and I’m currently training for my first marathon. I enjoy exploring new technologies, so let’s connect and chat about them!
+
+https://linkedin.com/in/thang-thai
